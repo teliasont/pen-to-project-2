@@ -2,6 +2,12 @@ html, body {
   font-family: "Dongle", sans-serif;
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
+}
+
+footer {
+  margin: 10px auto;
+  text-align: center;
 }
 
 .text-container {
